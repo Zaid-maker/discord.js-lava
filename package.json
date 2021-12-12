@@ -1,6 +1,6 @@
 {
   "name": "discord.js-lava",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A simple to use lavalink wrapper for the discord.js library",
   "main": "dist/index",
   "types": "dist/index.d.ts",
