@@ -39,8 +39,8 @@
   "devDependencies": {
     "@types/node": "^14.17.34",
     "@types/ws": "^7.4.7",
-    "@typescript-eslint/eslint-plugin": "^2.33.0",
-    "@typescript-eslint/parser": "^2.33.0",
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
     "discord.js": "^13.3.1",
     "typescript": "^3.9.10"
   },
