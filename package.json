@@ -1,11 +1,10 @@
 {
-  "name": "@Zaid-maker/discord.js-lava",
+  "name": "discord.js-lava",
   "version": "0.0.7",
   "description": "A simple to use lavalink wrapper for the discord.js library",
   "main": "dist/index",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepublishOnly": "yarn compile",
     "lint": "eslint --fix --ext ts src",
     "test": "eslint --ext ts src",
     "compile": "tsc -p .",

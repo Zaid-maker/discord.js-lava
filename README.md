@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/github/license/lavacord/discord.js)](https://github.com/lavacord/discord.js/)
 [![Depfu](https://badges.depfu.com/badges/c1805ab948c37b19d3bd3d49256c3987/overview.svg)](https://depfu.com/github/lavacord/discord.js?project_id=11809)
 
-# @Lavacord/Discord.js
-A simple and easy to use lavalink wrapper for discord.js that uses lavacord underneath
+# discord.js-lava
+A simple and easy to use lavalink wrapper for discord.js that uses lavacord underneath.
 
 ## Documentation
 [**lavacord.github.io/lavacord**](https://lavacord.github.io/Lavacord/)
