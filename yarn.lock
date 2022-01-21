@@ -437,9 +437,9 @@ type-fest@^1.2.1:
   version "1.4.0"
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-1.4.0.tgz"
 
-typescript@^4.5.3:
-  version "4.5.3"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.5.3.tgz"
+typescript@^4.5.5:
+  version "4.5.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
 
 vali-date@^1.0.0:
   version "1.0.0"
