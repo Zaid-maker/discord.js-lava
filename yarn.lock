@@ -69,9 +69,15 @@
   version "16.11.12"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.12.tgz#ac7fb693ac587ee182c3780c26eb65546a1a3c10"
 
-"@types/ws@^8.2.0", "@types/ws@^8.2.2":
+"@types/ws@^8.2.0":
   version "8.2.2"
   resolved "https://registry.yarnpkg.com/@types/ws/-/ws-8.2.2.tgz#7c5be4decb19500ae6b3d563043cd407bf366c21"
+  dependencies:
+    "@types/node" "*"
+
+"@types/ws@^8.5.0":
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-8.5.0.tgz#805ceb3f68eaebbed1a3004a66f16e35b7f3bf14"
   dependencies:
     "@types/node" "*"
 
