@@ -65,9 +65,9 @@
   version "14.17.34"
   resolved "https://registry.npmjs.org/@types/node/-/node-14.17.34.tgz"
 
-"@types/node@^16.11.13":
-  version "16.11.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.13.tgz#6b71641b81a98c6a538d89892440c06f147edddc"
+"@types/node@^18.11.18":
+  version "18.11.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.18.tgz#8dfb97f0da23c2293e554c5a50d61ef134d7697f"
 
 "@types/ws@^8.2.0", "@types/ws@^8.2.2":
   version "8.2.2"
